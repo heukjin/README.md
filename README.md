@@ -10,4 +10,4 @@
 ![BlackFang's GitHub stats](https://github-readme-stats.vercel.app/api?username=heukjin&show_icons=true&theme=radical)
 
 ## 📫 Reach me
-[![Instagram](https://img.shields.io/badge/IG-%40blackfang-red?style=flat&logo=instagram)](https://instagram.com/heukjin143)
+[![Instagram](https://img.shields.io/badge/IG-%40heukjin-red?style=flat&logo=instagram)](https://instagram.com/heukjin143)
